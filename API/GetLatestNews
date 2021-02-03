@@ -8,43 +8,35 @@
         "TwitterURL":"https://kodugamelab.com/2020/11/12/kodu-has-moved.html"
     },
     {
-        "Title":"Meet and Code",
-        "Text":"Are you in the EU?  Check out Meet and Code!",
-        "URL":"https://meet-and-code.org/",
-        "Date":"8/14/2019",
-        "TwitterMessage":"Meet and Code with Kodu #meetandcode #codeEU #Kodu",
-        "TwitterURL":"https://meet-and-code.org/"
-    },
-    {
         "Title":"New Kodu Release (1.5.47.0)",
         "Text":"Critical update for micro:bit users.",
-        "URL":"https://www.kodugamelab.com/archive/new-kodu-release-15470/",
+        "URL":"https://www.kodugamelab.com/2019/06/12/new-kodu-release-1-5-47-0.html",
         "Date":"6/12/2019",
         "TwitterMessage":"#Kodu Update!",
-        "TwitterURL":"https://www.kodugamelab.com/archive/new-kodu-release-15470/"
+        "TwitterURL":"https://www.kodugamelab.com/2019/06/12/new-kodu-release-1-5-47-0.html"
     },
     {
         "Title":"New Kodu Release (1.5.42.0)",
         "Text":"Kodu now speaks Vietnamese!",
-        "URL":"https://www.kodugamelab.com/archive/new-kodu-release-15420/",
+        "URL":"https://www.kodugamelab.com/2019/05/02/new-kodu-release-1-5-42-0.html",
         "Date":"5/2/2019",
         "TwitterMessage":"#Kodu Update!",
-        "TwitterURL":"https://www.kodugamelab.com/archive/new-kodu-release-15420/"
+        "TwitterURL":"https://www.kodugamelab.com/2019/05/02/new-kodu-release-1-5-42-0.html"
     },
     {
         "Title":"New Kodu Release (1.5.29.0)",
         "Text":"A mix of bug fixes and new features.",
-        "URL":"https://www.kodugamelab.com/archive/new-kodu-release-15290/",
+        "URL":"https://www.kodugamelab.com/2019/03/26/new-kodu-release-1-5-29-0.html",
         "Date":"3/26/2019",
         "TwitterMessage":"#Kodu Update!",
-        "TwitterURL":"https://www.kodugamelab.com/archive/new-kodu-release-15290/"
+        "TwitterURL":"https://www.kodugamelab.com/2019/03/26/new-kodu-release-1-5-29-0.html"
     },
     {
         "Title":"New Kodu Release (1.5.2.0)",
         "Text":"A few new features and a bunch of bug fixes.  Have fun!",
-        "URL":"https://www.kodugamelab.com/archive/new-kodu-release-1520/",
+        "URL":"https://www.kodugamelab.com/2018/11/29/new-kodu-release-1-5-2-0.html",
         "Date":"11/29/2018",
         "TwitterMessage":"New #Kodu Release! ",
-        "TwitterURL":"https://www.kodugamelab.com/archive/new-kodu-release-1520/"
+        "TwitterURL":"https://www.kodugamelab.com/2018/11/29/new-kodu-release-1-5-2-0.html"
     }
 ]
