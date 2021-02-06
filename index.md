@@ -31,6 +31,7 @@ Having the tiles represent real-world events, actions, and objects helps bridge 
 ## [Tip and Tricks](tips)
 ## [Privacy Statement](privacy)
 
+
 ## Questions?
 For questions or any support issues, email <KoduSupport@InfiniteInstant.com>.
 
