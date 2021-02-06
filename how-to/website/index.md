@@ -52,3 +52,4 @@ The list of current languages is stored in **KoduGameLab.github.io\API\Languages
 ### Notes:  
 - Before adding or changing localization files, be sure to try and run them locally in debug mode.  If the XML is badly formed it will though an exception and will need some hand tweaking.
 - Also add the new/modified files to the Kodu client enlistment so that they become part of the latest builds. The info from Languages.Xml goes into Locales.Xml in the build.
+
