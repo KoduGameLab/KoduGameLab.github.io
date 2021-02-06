@@ -31,7 +31,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-livereload: true
+livereload: true 
 
 paginate: 5
 paginate_path: "/blog/page:num"
