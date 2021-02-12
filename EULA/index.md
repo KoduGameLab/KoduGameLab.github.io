@@ -13,7 +13,7 @@ hero_height: is-small
 _Last updated: February 2021_
 
 **INFINITEINSTANT SOFTWARE LICENSE TERMS and CODE OF CONDUCT
-KODU GAME LAB 1.5**
+KODU GAME LAB 1.5**<br>
 ___
 These license terms are an agreement between InfiniteInstant and you. Please read them. They apply to the software named above, which includes the media on which you received it, if any. The terms also apply to any
 •  updates,
@@ -23,7 +23,7 @@ These license terms are an agreement between InfiniteInstant and you. Please rea
 for this software, unless other terms accompany those items. If so, those terms apply.
 
 **BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
-AS DESCRIBED BELOW, USING SOME FEATURES ALSO OPERATES AS YOUR CONSENT TO THE TRANSMISSION OF CERTAIN STANDARD COMPUTER INFORMATION FOR INTERNET-BASED SERVICES.**
+AS DESCRIBED BELOW, USING SOME FEATURES ALSO OPERATES AS YOUR CONSENT TO THE TRANSMISSION OF CERTAIN STANDARD COMPUTER INFORMATION FOR INTERNET-BASED SERVICES.**<br>
 ___
 
 If you comply with these license terms, you have the rights below.
@@ -63,24 +63,24 @@ If you comply with these license terms, you have the rights below.
 
 The Code of Conduct outlines the rules that you need to follow to help ensure that Kodu Game Lab and the Kodu Game Lab Community Feature (the “Community Feature”) are fun for everyone. 
 ### You may do the following.
-•  Be polite and treat others with respect. 
-•  Inform us that content you have encountered is offensive - especially if the content is violating the Code of Conduct. 
-•  Have fun!
+- Be polite and treat others with respect. 
+- Inform us that content you have encountered is offensive - especially if the content is violating the Code of Conduct. 
+- Have fun!
 ### Don’t do the following.
-•  Don't use the Services to do anything illegal. You are responsible for your actions and the consequences of your actions on the Community Feature, not InfiniteInstant. 
-•  Don't harass, abuse, insult or spam other users, or encourage other users to do so.
-•  Don't create a creator name or game content that other users may be offended by. This includes, without limitation, anything related to or suggestive of: profane words/phrases, topics or content of a sexual nature, hate speech (including but not limited to racial, ethnic, or religious slurs), illegal drugs/controlled substances, or illegal activities. 
-•  Don't create a creator name or game content that references controversial religious topics, notorious people, organizations, or sensitive current or historical events that may be considered inappropriate. 
-•  Don't distribute, post, publish, upload, disseminate or discuss defamatory, infringing, obscene, sexual or unlawful materials in any format (images, audio, video, text, etc.). Prohibited materials include, without limitation, child pornography or illegal drugs. “Sound alike” words or phrases or puns that reference these topics are also prohibited.
-•  Don't post references to websites that violate the Code of Conduct. 
-•  Don't give out personal information of other players (such as their real name, address, phone number, credit card number, etc.) in any way (including, without limitation, through the names you create for your creator name or in-game content). This information could be used by other players for illegal or harmful purposes. You should also avoid giving out your own personal information. 
-•  Don't post references to materials that could harm other users' computers or would allow others to inappropriately access software or Web sites. 
-•  Don't impersonate, harass, or defame InfiniteInstant employees, moderators, or staff members. 
+- Don't use the Services to do anything illegal. You are responsible for your actions and the consequences of your actions on the Community Feature, not InfiniteInstant. 
+- Don't harass, abuse, insult or spam other users, or encourage other users to do so.
+- Don't create a creator name or game content that other users may be offended by. This includes, without limitation, anything related to or suggestive of: profane words/phrases, topics or content of a sexual nature, hate speech (including but not limited to racial, ethnic, or religious slurs), illegal drugs/controlled substances, or illegal activities. 
+- Don't create a creator name or game content that references controversial religious topics, notorious people, organizations, or sensitive current or historical events that may be considered inappropriate. 
+- Don't distribute, post, publish, upload, disseminate or discuss defamatory, infringing, obscene, sexual or unlawful materials in any format (images, audio, video, text, etc.). Prohibited materials include, without limitation, child pornography or illegal drugs. “Sound alike” words or phrases or puns that reference these topics are also prohibited.
+- Don't post references to websites that violate the Code of Conduct. 
+- Don't give out personal information of other players (such as their real name, address, phone number, credit card number, etc.) in any way (including, without limitation, through the names you create for your creator name or in-game content). This information could be used by other players for illegal or harmful purposes. You should also avoid giving out your own personal information. 
+- Don't post references to materials that could harm other users' computers or would allow others to inappropriately access software or Web sites. 
+- Don't impersonate, harass, or defame InfiniteInstant employees, moderators, or staff members. 
 ### Consequences of Violations. 
 If you violate the Code of Conduct or the Kodu Game Lab License Terms, action may be taken against your account, including without limitation the following.
-•  Some offenses warrant an immediate permanent suspension, including without limitation: hacking, fraud, severe racial remarks, depictions of nudity, repeated creation of inappropriate creator names or game content, or posting viruses or URLs to viruses
-•  Repeated violations of the Code of Conduct can result in a permanent suspension of your account, or a permanent suspension of any device you are using to connect to the service.
-•  If you create a creator name that has been determined to violate the Terms of Use or Code of Conduct, you will be required to change it.
+- Some offenses warrant an immediate permanent suspension, including without limitation: hacking, fraud, severe racial remarks, depictions of nudity, repeated creation of inappropriate creator names or game content, or posting viruses or URLs to viruses
+- Repeated violations of the Code of Conduct can result in a permanent suspension of your account, or a permanent suspension of any device you are using to connect to the service.
+- If you create a creator name that has been determined to violate the Terms of Use or Code of Conduct, you will be required to change it.
 
 InfiniteInstant is not obligated to send you a warning before these actions occur. If your account is suspended while participating in a tournament or competition InfiniteInstant assumes no liability in the loss of any potential prizes or recognition related to the tournament or competition. InfiniteInstant reserves the right to remove at any time, without notice, any user-created content from the Community Feature. InfiniteInstant can contact any Internet Service Provider and provide the ISP with information on illegal activities. 
 
