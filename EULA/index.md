@@ -8,13 +8,17 @@ hero_height: is-small
 
 [Back to KoduGameLab](../index)
 
-## Kodu Game Lab EULA and Code of Conduct
+# Kodu Game Lab EULA and Code of Conduct
 
 _Last updated: February 2021_
 
+## Kodu Game Lab EULA
+
 **INFINITEINSTANT SOFTWARE LICENSE TERMS and CODE OF CONDUCT
-KODU GAME LAB 1.5**<br>
+KODU GAME LAB 1.5**
+
 ___
+
 These license terms are an agreement between InfiniteInstant and you. Please read them. They apply to the software named above, which includes the media on which you received it, if any. The terms also apply to any
 •  updates,
 •  supplements,
@@ -23,7 +27,8 @@ These license terms are an agreement between InfiniteInstant and you. Please rea
 for this software, unless other terms accompany those items. If so, those terms apply.
 
 **BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
-AS DESCRIBED BELOW, USING SOME FEATURES ALSO OPERATES AS YOUR CONSENT TO THE TRANSMISSION OF CERTAIN STANDARD COMPUTER INFORMATION FOR INTERNET-BASED SERVICES.**<br>
+AS DESCRIBED BELOW, USING SOME FEATURES ALSO OPERATES AS YOUR CONSENT TO THE TRANSMISSION OF CERTAIN STANDARD COMPUTER INFORMATION FOR INTERNET-BASED SERVICES.**
+
 ___
 
 If you comply with these license terms, you have the rights below.
@@ -59,7 +64,7 @@ If you comply with these license terms, you have the rights below.
 11. **LEGAL EFFECT.** This agreement describes certain legal rights. You may have other rights under the laws of your country. You may also have rights with respect to the party from whom you acquired the software. This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
 12. **DISCLAIMER OF WARRANTY. THE SOFTWARE IS LICENSED “AS-IS.” YOU BEAR THE RISK OF USING IT. INFINITEINSTANT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS. YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE. TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, INFINITEINSTANT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.**
 
-**KODU GAME LAB AND THE KODU GAME LAB COMMUNITY FEATURE CODE OF CONDUCT (“Code of Conduct”)**
+## KODU GAME LAB AND THE KODU GAME LAB COMMUNITY FEATURE CODE OF CONDUCT (“Code of Conduct”)
 
 The Code of Conduct outlines the rules that you need to follow to help ensure that Kodu Game Lab and the Kodu Game Lab Community Feature (the “Community Feature”) are fun for everyone. 
 ### You may do the following.
