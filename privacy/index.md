@@ -10,9 +10,9 @@ hero_height: is-small
 
 ## Kodu Game Lab Privacy Statement
 
-_Last updated: November 2020_
+_Last updated: February 2021_
 
-Microsoft Kodu Game Lab (“Kodu”) is a visual programming language specifically for creating games. It is designed to be accessible and enjoyable for anyone.  This privacy statement governs your use of the Kodu websites and software that point to it.
+Kodu Game Lab (“Kodu”) is a visual programming language specifically for creating games. It is designed to be accessible and enjoyable for anyone.  This privacy statement governs your use of the Kodu websites and software that point to it.
 
 ### Collection and Use of Your Information
 Kodu does not intentionally collect personal information or contact information from users of Kodu.  You may visit the Kodu website and download and use the Kodu software without signing in or providing any personal information.
@@ -31,7 +31,7 @@ The Creator Name/PIN system has both pros and cons:
 Pros:
 * No email account is needed.  
 * Absolutely no PII is gathered or saved anywhere.
-* If a user forgets their PIN, they can just create a new one.  Levels can be transferred to the new “account” by loading and resaving them.
+* If a user forgets their PIN, they can just create a new one.  Levels can be transferred to the new “account” by loading and re-saving them.
  
 Cons:
 * The hash is potentially not unique.  There is a chance that two users will choose the same creator name and PIN.  If this happens the only harm is that they will see each other's levels when filtering on "My Worlds."
