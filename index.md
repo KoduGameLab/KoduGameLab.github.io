@@ -30,6 +30,7 @@ Having the tiles represent real-world events, actions, and objects helps bridge 
 ## [Videos](resources#videos)
 ## [Tip and Tricks](tips)
 ## [Privacy Statement](privacy)
+## [EULA and Code of Conduct](eula)
 
 
 ## Questions?
