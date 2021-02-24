@@ -189,7 +189,9 @@ $().ready(function(){
     );
 
     //q in url is search query (if any)
-    let search = decodeURIComponent(params["q"])
+    let search = params["q"]
+    if(search)
+      search=decodeURIComponent(search)
     if(search && search.trim().length>0)
     {
         //update section title and search bar
