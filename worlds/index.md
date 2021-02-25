@@ -26,6 +26,8 @@ show_sidebar: false
   display:unset;
   float: right;
   margin: 10px;
+  box-shadow: 2px 0em 1em 0em rgb(10 10 10 / 43%), 0 0px 0 1px rgb(10 10 10 / 2%);
+
 }
 .sort-button
 {
@@ -34,7 +36,23 @@ show_sidebar: false
 }
 .modal-open {
     overflow: initial;
-}  
+}
+.modal .close{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    position: absolute;
+    right: -15px;
+    top: -15px;
+    z-index: 2; 
+    /* overflow: visible; */
+    font-size: x-large;
+    cursor:pointer;
+}
+.modal-card{
+    overflow: visible; 
+}
+
 </style>
 
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
@@ -109,6 +127,7 @@ show_sidebar: false
 <div class="modal">
   <div class="modal-background"></div>
   <div class="modal-card">
+  </button>
   </div>
 
 </div>
@@ -168,7 +187,7 @@ function decodeGuid(encodedGuid)
       decoded = chunks.join("-");
       return (decoded)
 }
-//decodeGuid("SbwTS4YgKkaXS7LmKG67TQ==")
+decodeGuid("SbwTS4YgKkaXS7LmKG67TQ==")
 //TODO. Page caching may not be working right!!
 //Todo. MrPresident levels all white.
 //todo. sudden 502 on thumbs. 
@@ -287,6 +306,13 @@ $().ready(function(){
                   //console.log(e.currentTarget)
                   $(".modal").addClass("is-active")
                   $(".modal-card").html($(e.currentTarget).html())
+
+                  let closeButton = $('<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>')
+                  $(".modal-card").append(closeButton);
+                  //handle close modal on background click
+                  $(".modal .close").on("click", function(){
+                      $(".modal-background").click()//close by simulating background click
+                  })
               })
 
               //todo. maybe hide this item.
@@ -428,6 +454,15 @@ $().ready(function(){
                   //console.log(e.currentTarget)
                   $(".modal").addClass("is-active")
                   $(".modal-card").html($(e.currentTarget).html())
+
+                  let closeButton = $('<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>')
+                  $(".modal-card").append(closeButton);
+                  //handle close modal on background click
+                  $(".modal .close").on("click", function(){
+                      $(".modal-background").click()//close by simulating background click
+                  })
+
+                  
               })
 
               $(".world-container").append(item );
