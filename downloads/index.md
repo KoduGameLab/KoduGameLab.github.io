@@ -21,6 +21,9 @@ The desktop builds are most useful when installing Kodu off-line. For instance, 
 
 Both the Microsoft Store build and the Desktop builds store the user's levels in the same location so you can freely switch between them without losing any work.
 
+## XNA 4.0
+Microsoft has recently stopped making the XNA 4.0 redistributable available for download.  If you install Kodu via the .MSI package you will need this. It comes included as part of the .EXE installer. You can now get the XNA 4 redistributable package here: [XNA 4 Redist](https://kodugamelab.blob.core.windows.net:443/blob/xnafx40_redist.msi)
+
 ## Legacy Versions
 If you need a specific version of Kodu, email <KoduSupport@InfiniteInstant.com>.  I have most of the older versions and will make them available as needed.
 
