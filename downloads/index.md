@@ -8,6 +8,8 @@ show_sidebar: false
 # Kodu in the Microsoft Store
 Kodu is now available in the Microsoft store.  This is the same as the desktop build with the bonus that it will automatically be updated as new versions are released.  You can find it [here](https://www.microsoft.com/en-us/p/kodu-game-lab/9nv0b9m1vkwr).
 
+*If you are using an older version of Windows not supported by the store you can use the Desktop Build below.*
+
 
 # Kodu Desktop Build
 
