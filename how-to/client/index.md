@@ -55,17 +55,18 @@ The Microsoft Store build uses the results of a normal build.
 > - In the dropdown select "MSIX Packaging Tool Environment".
 > - Enter local username and password for virtual environment.  (scoy, ERT4me!)
 > - Click Next.  Dismiss Windows Security dialog.  Doesn't seem to work.
-> - Check box to deactivate Windows Serach, click Diable Selected, Click Next.
+> - Check box to deactivate Windows Search, click Disable Selected, Click Next.
 > - Browse to the MSI.  No args.  Choose "Do not sign package".  Click Next.
 > - **Package information**
 >> Package name = **9673InfiniteInstant.KoduGameLab_jhcksg2e634ay**<br>
->> Package display name = **Kodu_Game_Lab** _(note the undersocres)_<br>
+>> *NOTE This name is no longer accepted by the MSIX packaging tool so use **9673InfiniteInstant.KoduGameLab** BUT this will fail validation when uploaded to the Store Dashboard.  Apparently if you just hit Save in the dashboard anyway it will work.*<br>
+>> Package display name = **Kodu_Game_Lab** _(note the underscores)_<br>
 >> Publisher name = **CN=92DF2F3C-F659-4DB2-9E93-41141C78BA29**<br>
 >> Publisher display name = **InfiniteInstant**<br>
 >> enter current version<br>
 >> Package Description **Kodu Game Lab**<br>
 >> Installation location = _leave blank_<br>
-> - In Hyper-V manager, connect to MSIX Packaging Tool Enviroment.
+> - In Hyper-V manager, connect to MSIX Packaging Tool Environment.
 > - Click Next to start installation.  When installer pauses, run XNA installer, click Refresh, click through and finish installation.  **DO NOT RUN KODU!**  Running Kodu at this point will create the SiteOptions file.  This will then be used by every single instance of Kodu instead of being unique to each machine.
 > - In the MSIX Packaging Tool:  No restart needed, click Next.
 > - Do not run any "first launch tasks".  Click Next, "Yes, move on".. 
