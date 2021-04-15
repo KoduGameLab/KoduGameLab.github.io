@@ -12,6 +12,7 @@
     width: 100%;
     padding-top: 50px;
     padding-bottom: 50px;
+    box-shadow: rgb(0 0 0 / 58%) 0px 0.5em 1em -0.125em, rgb(10 10 10 / 2%) 0px 0px 0px 1px;
   }
   .swiper-slide {
     background-position: center;
@@ -26,16 +27,36 @@
   .swiper-slide .description {
     display: none;
   }
-  .modal .description {
-    display: unset;
-    color: green;
-  }
-  .modal .button
-  {
-    display:unset;
-    float: right;
-    margin: 10px;
-  }  
+.modal.world-item .description {
+  display: unset;
+  color: green;
+}
+.modal .button
+{
+  display:unset;
+  float: right;
+  margin: 10px;
+}
+.modal-open {
+    overflow: initial;
+}
+.modal .close{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    position: absolute;
+    right: -15px;
+    top: -15px;
+    z-index: 2; 
+    /* overflow: visible; */
+    font-size: xxx-large;
+    cursor:pointer;
+    line-height: 10px;
+    padding-left: 5px;
+}
+.modal-card{
+    overflow: visible; 
+}  
 </style>
 
 <!-- Slider main container -->
@@ -71,13 +92,29 @@
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
 </div>
+<div class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+  </button>
+  </div>
+
+</div>
 
 <script>
 $(".swiper-container").hide();//hide template at start.
 $(".swiper-slide").hide();//hide template at start.
 
+
+
 //$().ready(function(){
 var initFeatured=(function(){
+
+  //handle close modal on background click
+  $(".modal-background").on("click",function(e){
+    $(".is-active").removeClass("is-active")
+    //remove anchor (#) from url
+    history.pushState({}, "", document.location.href.split('#')[0]);
+  })
 
 //todo. move to util file
 function createDotKoduFilename(levelTitle, levelCreator)
