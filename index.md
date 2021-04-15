@@ -7,6 +7,12 @@ hero_height: is-medium
 hero_link: /downloads
 hero_link_text: Get Kodu
 ---
+<style>
+.navbar{
+  box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 33%), 0 0px 0 1px rgb(10 10 10 / 2%)
+}
+</style>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 
 <p>
   <img src="images/Kodu.png" align="right" hspace="20"/><br>
@@ -23,6 +29,12 @@ The heart of Kodu is the tile-based programming language. The language is high l
 ![Kode Sample](images/kode_sample.png)
 
 Having the tiles represent real-world events, actions, and objects helps bridge the gap between a new user's real-world experience and the often abstract nature of computer programming.
+
+## Featured Worlds
+{% include_relative worlds/featured.md %}
+<script>
+initFeatured()
+</script>
 
 ## [Download Kodu](downloads)
 
