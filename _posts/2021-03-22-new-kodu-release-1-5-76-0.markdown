@@ -8,8 +8,6 @@ show_sidebar: true
 author: "scoy"
 ---
 
-# *1.5.76.0 is delayed until I get the proper certificate for digitally signing the new build.  Should be a week or so.*  
-
 ## New for 1.5.76.0
 
 1.5.76.0 is a minor release with just a few bug fixes and changed features.
