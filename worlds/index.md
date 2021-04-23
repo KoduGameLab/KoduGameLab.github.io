@@ -26,8 +26,15 @@ show_sidebar: false
   display:unset;
   float: right;
   margin: 10px;
-  box-shadow: 2px 0em 1em 0em rgb(10 10 10 / 43%), 0 0px 0 1px rgb(10 10 10 / 2%);
-
+}
+.button
+{
+}
+.card{
+  box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 33%), 0 0px 0 1px rgb(10 10 10 / 2%)
+}
+.navbar{
+  box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 33%), 0 0px 0 1px rgb(10 10 10 / 2%)
 }
 .sort-button
 {
@@ -46,8 +53,10 @@ show_sidebar: false
     top: -15px;
     z-index: 2; 
     /* overflow: visible; */
-    font-size: x-large;
+    font-size: xxx-large;
     cursor:pointer;
+    line-height: 10px;
+    padding-left: 5px;
 }
 .modal-card{
     overflow: visible; 
@@ -57,8 +66,6 @@ show_sidebar: false
 
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-timeago/1.6.7/jquery.timeago.min.js" crossorigin="anonymous"></script>
-
-{% include_relative featured.md %}
 
 <section class="section">
     <div class="container">
@@ -222,8 +229,8 @@ $().ready(function(){
     }
 
     //Show featured if not doing any sort of query
-    if(window.location.search=="")
-      initFeatured();
+    // if(window.location.search=="")
+    //   initFeatured();
     
     let sortBy=params["sortBy"]
     if(!sortBy)
@@ -286,6 +293,11 @@ $().ready(function(){
             {
               //todo. unify this code with pageload version
               //copy first item (template)
+
+              let thumbUrl = world.ThumbnailUrl
+              if(!thumbUrl || thumbUrl==null)
+                thumbUrl="https://koduworlds.azurewebsites.net/thumbnail/"+world.WorldId
+
               let item=$(".world-item").first().clone();
               //and fill it in with world data
               item.find("[data-type='worldref']").attr("href","#"+world.WorldId);
@@ -295,12 +307,16 @@ $().ready(function(){
               item.find("[data-type='downloads']").text(world.Downloads+"⇩" ); /* &#8681 */
               item.find("[data-type='ago']").text(world.Modified);
               item.find("[data-type='ago']").attr("datetime",world.Modified);
-              item.find("[data-type='thumbnail']").attr("src","https://koduworlds.azurewebsites.net/thumbnail/"+world.WorldId)
+              item.find("[data-type='thumbnail']").attr("src",thumbUrl)
               item.find("[data-type='download-link']").attr("href","https://koduworlds.azurewebsites.net/download/"+world.WorldId+"?fn="+
                 createDotKoduFilename(world.Name,world.Creator))
               item.show();//template defaults to hidden so show.
 
               //item.find("[data-type='download-link']").attr("download",   createDotKoduFilename(world.Name,world.Creator))
+
+              let quality=params["quality"]
+              if(quality)
+                item.find("[data-type='thumbnail']").attr("src",item.find("[data-type='thumbnail']").attr("src")+"?quality="+quality);
 
               item.on("click",function(e){
                   //console.log(e.currentTarget)
@@ -340,6 +356,10 @@ $().ready(function(){
         doNav($(".search").val(),sortBy,range)
       }
     });
+    //do select all when search box clicked.
+    $(".search").on("click",function(event) {
+      this.setSelectionRange(0, this.value.length)
+    });    
 
     //handle navigation including building url
     function doNav(search,sortBy,range)
@@ -435,16 +455,34 @@ $().ready(function(){
           {
               //copy first item (template)
               let item=$(".world-item").first().clone();
+
+              let thumbUrl = world.ThumbnailUrl
+              if(!thumbUrl || thumbUrl==null)
+                thumbUrl="https://koduworlds.azurewebsites.net/thumbnail/"+world.WorldId
+
               //and fill it in with world data
               item.find("[data-type='worldref']").attr("href","#"+world.WorldId);
               item.find("[data-type='worldname']").text(world.Name);
               item.find("[data-type='authorname']").text("by "+world.Creator);
               item.find("[data-type='description']").text(world.Description);
-              item.find("[data-type='downloads']").text(world.Downloads+"⇩" ); /* &#8681 */
+
+              // //temp adjust downloads
+              let adjustedDownloads = world.Downloads
+              // if(world.Downloads > 100)
+              // {
+              //   adjustedDownloads = Math.round(Math.pow(world.Downloads-100,0.6)+100)
+              // }
+
+ 
+              item.find("[data-type='downloads']").text(adjustedDownloads+"⇩" ); /* &#8681 */
               item.find("[data-type='ago']").text(world.Modified);
               item.find("[data-type='ago']").attr("datetime",world.Modified);
-              item.find("[data-type='thumbnail']").attr("src","https://koduworlds.azurewebsites.net/thumbnail/"+world.WorldId)
+              item.find("[data-type='thumbnail']").attr("src",thumbUrl)
               item.find("[data-type='download-link']").attr("href","https://koduworlds.azurewebsites.net/download/"+world.WorldId+"?fn="+createDotKoduFilename(world.Name,world.Creator))
+
+              let quality=params["quality"]
+              if(quality)
+                item.find("[data-type='thumbnail']").attr("src",item.find("[data-type='thumbnail']").attr("src")+"?quality="+quality);
 
               //item.find("[data-type='download-link']").attr("download",createDotKoduFilename(world.Name,world.Creator))
 
@@ -493,4 +531,3 @@ $().ready(function(){
 
 });
 </script>
-
