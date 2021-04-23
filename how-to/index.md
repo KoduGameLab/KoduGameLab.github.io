@@ -13,4 +13,6 @@ Dev environment, build, deploy, etc.
 Update current version, localization, news feed, and blog.
 # [Kodu Community](community)
 Dev environment, build, deploy to Azure, etc.
+# [Staging](staging)
+For testing downloads of new versions of Kodu.
 
