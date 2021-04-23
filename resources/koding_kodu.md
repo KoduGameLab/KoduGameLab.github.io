@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Koding Kodu
 
-[![](koding_kodu.png)](https://worlds.kodugamelab.com/world/LXLAcgg_TE2FtIBT9JP_vA==)
+[![](koding_kodu.png)](https://www.kodugamelab.com/worlds/#LXLAcgg_TE2FtIBT9JP_vA==)
 
 ## Koding Kodu
 ![Digital Technology](dt.png) ![Computer Science](cs.png)
@@ -29,7 +29,7 @@ hero_height: is-small
 
 ### Contents
 * [Lesson 3: Koding Kodu](Kodu_Touch_Primer_Lesson_3.pdf#page=1)
-* [Starter World: Kodu Touch Lesson 3 (Kodu eats all the apples)](https://worlds.kodugamelab.com/world/z1iDdhN3PkSfHiJlgExGCA==)
+* [Starter World: Kodu Touch Lesson 3 (Kodu eats all the apples)](https://www.kodugamelab.com/worlds/#z1iDdhN3PkSfHiJlgExGCA==)
 * [Koloring Kodu](Koloring_Kodu.pdf)
 * [Kodu Kode Puzzle](Kodu_Kode_Puzzle.pdf)
 

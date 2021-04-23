@@ -10,7 +10,7 @@ hide_hero: true
 
 [Home](../..)/[Resources](..)/Underwater Explorer
 
-[![](underwater_explorer.png)](https://worlds.kodugamelab.com/world/y3WUJyKvXEWPz8zDsWWayA==)
+[![](underwater_explorer.png)](https://www.kodugamelab.com/worlds/#y3WUJyKvXEWPz8zDsWWayA==)
 
 ![Digital Technology](../dt.png) ![Computer Science](../cs.png) ![robotics](../r.png)
 
@@ -40,7 +40,7 @@ hide_hero: true
 
 ### Contents
 * [Completed Kode for Level: Underwater Explorer](https://kodu.blob.core.windows.net/kodu/Resources/Underwater_Explorer_Kode_for_Level.pdf)
-* [Completed World: Underwater Explorer](https://worlds.kodugamelab.com/world/MN5Pc1jIrE-QTHUlAHCJgg==)
+* [Completed World: Underwater Explorer](https://www.kodugamelab.com/worlds/#MN5Pc1jIrE-QTHUlAHCJgg==)
 * Project: Underwater Explorer - Sputnik collects objects such as Starfish and Clams (micro:bit say)
 
 ### Student Activities

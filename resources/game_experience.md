@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Game Experience
 
-[![](game_experience.png)](https://worlds.kodugamelab.com/world/G2HFlfPcpkqCL0zF0DzoIQ==)
+[![](game_experience.png)](https://www.kodugamelab.com/worlds/#G2HFlfPcpkqCL0zF0DzoIQ==)
 
 ## Game Experience
 ![Digital Technology](dt.png) ![Computer Science](cs.png)
@@ -28,7 +28,7 @@ hero_height: is-small
 
 ### Contents
 * [Game Experience](PKDesignCourse_WeekFour.pdf)
-* [Complete Game: Roadkill](https://worlds.kodugamelab.com/world/G2HFlfPcpkqCL0zF0DzoIQ==) Excitement galore as you try to weave your way through the hurried commuter traffic! Can you reach the safety of the far side?
+* [Complete Game: Roadkill](https://www.kodugamelab.com/worlds/#G2HFlfPcpkqCL0zF0DzoIQ==) Excitement galore as you try to weave your way through the hurried commuter traffic! Can you reach the safety of the far side?
 
 ### Student Activities
 [Theme and Story](PKDesignCourse_WeekFour.pdf#page=2)<br>

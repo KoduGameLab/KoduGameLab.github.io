@@ -8,7 +8,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Timing and Winning
 
-[![](timing_and_winning.png)](https://worlds.kodugamelab.com/world/lCJFKwhSpkO5fCOv0_otIA==)
+[![](timing_and_winning.png)](https://www.kodugamelab.com/worlds/#lCJFKwhSpkO5fCOv0_otIA==)
 
 ## Timing and Winning
 ![Digital Technology](dt.png) ![Computer Science](cs.png) ![Math](m.png)
@@ -27,9 +27,9 @@ hero_height: is-small
 * [Lesson 5: Obstacle Course](obstacle_course)
 * [Lesson 6: Placing and Programming Items](placing_and_programming_items)
 * Lesson 7: Present Teacher Resources:
-  * Completed Game: [Obstacle Course - Stage 2 (pink terrain)](https://worlds.kodugamelab.com/world/eOGXuSrYOkGm-TSLVEJ3Dg==)
-  * Completed Game: [Obstacle Course - Stage 2 (black terrain)](https://worlds.kodugamelab.com/world/lCJFKwhSpkO5fCOv0_otIA==)
-  * Completed Game: [Obstacle Course - Stage 2 (white terrain)](https://worlds.kodugamelab.com/world/fijyJwpOfU24ijooYta7yA==)
+  * Completed Game: [Obstacle Course - Stage 2 (pink terrain)](https://www.kodugamelab.com/worlds/#eOGXuSrYOkGm-TSLVEJ3Dg==)
+  * Completed Game: [Obstacle Course - Stage 2 (black terrain)](https://www.kodugamelab.com/worlds/#lCJFKwhSpkO5fCOv0_otIA==)
+  * Completed Game: [Obstacle Course - Stage 2 (white terrain)](https://www.kodugamelab.com/worlds/#fijyJwpOfU24ijooYta7yA==)
 
 ### Learning Objectives
 * Students will plot and model the shortest paths between the locations using a computer simulation when given multiple target locations and obstacles.

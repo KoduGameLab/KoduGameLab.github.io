@@ -10,7 +10,7 @@ hide_hero: true
 
 [Home](../..)/[Resources](..)/Stoplight
 
-[![](stoplight.png)](https://worlds.kodugamelab.com/world/6JLpFERH20i-DQV897XDLQ==)
+[![](stoplight.png)](https://www.kodugamelab.com/worlds/#6JLpFERH20i-DQV897XDLQ==)
 
 ![Digital Technology](../dt.png) ![Computer Science](../cs.png) ![robotics](../r.png)
 
@@ -40,7 +40,7 @@ hide_hero: true
 * Create a Kodu world to control the Sky in game using BBC micro:bit PO and P1 on the BBC micro:bit and a photoresistor.
 
 ### Contents
-* [Completed World: Stoplight](https://worlds.kodugamelab.com/world/6JLpFERH20i-DQV897XDLQ==)
+* [Completed World: Stoplight](https://www.kodugamelab.com/worlds/#6JLpFERH20i-DQV897XDLQ==)
 * Project: Stoplight
 
 ### Student Activities

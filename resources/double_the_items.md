@@ -8,7 +8,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Double the Items
 
-[![](double_the_items.png)](https://worlds.kodugamelab.com/world/fijyJwpOfU24ijooYta7yA==)
+[![](double_the_items.png)](https://www.kodugamelab.com/worlds/#fijyJwpOfU24ijooYta7yA==)
 
 ## Double the Items, Double the Time?
 ![Digital Technology](dt.png) ![Computer Science](cs.png) ![Math](m.png)

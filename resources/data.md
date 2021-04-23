@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Data
 
-[![](data.png)](https://worlds.kodugamelab.com/world/fijyJwpOfU24ijooYta7yA==)
+[![](data.png)](https://www.kodugamelab.com/worlds/#fijyJwpOfU24ijooYta7yA==)
 
 ## Data
 ![Digital Technology](dt.png) ![Computer Science](cs.png) ![Math](m.png)
@@ -29,7 +29,7 @@ Download and Installation of Kodu
 * [Lesson 7: Timing and Winning](timing_and_winning)
 * [Lesson 8: Double the Items, Double the Time](double_the_items)
 * Lesson 9: Teacher Resource:
-  * Completed Game: [Obstacle Course - Stage 3](<https://worlds.kodugamelab.com/world/eOGXuSrYOkGm-TSLVEJ3Dg==>)
+  * Completed Game: [Obstacle Course - Stage 3](<https://www.kodugamelab.com/worlds/#eOGXuSrYOkGm-TSLVEJ3Dg==>)
 
 ### Learning Objectives
 * Students will sample a population to collect performance data on the task when given a task.

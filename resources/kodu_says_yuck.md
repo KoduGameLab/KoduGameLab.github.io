@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Kodu Says "Yuck!"
 
-[![](kodu_says_yuck.png)](https://worlds.kodugamelab.com/world/dxFmr9cZLkGWeFv2y_1mrw==)
+[![](kodu_says_yuck.png)](https://www.kodugamelab.com/worlds/#dxFmr9cZLkGWeFv2y_1mrw==)
 
 ## Kodu Says "Yuck!"
 ![Digital Technology](dt.png) ![Computer Science](cs.png)
@@ -29,7 +29,7 @@ hero_height: is-small
 
 ### Contents
 * [Lesson 5: Koding Konundrum](Kodu_Touch_Primer_Lesson_5.pdf#page=1)
-* [Starter World: Kodu Touch Lesson 5](https://worlds.kodugamelab.com/world/d1C-Gtyys0ulxN4TVHRMrg==) (Kodu eats only red Apples and says "Yuck!" when at the green apple) 
+* [Starter World: Kodu Touch Lesson 5](https://www.kodugamelab.com/worlds/#d1C-Gtyys0ulxN4TVHRMrg==) (Kodu eats only red Apples and says "Yuck!" when at the green apple) 
 
 ### Student Activities
 [Activator: Kodu Role-play](Kodu_Touch_Primer_Lesson_5.pdf#page=1)<br>

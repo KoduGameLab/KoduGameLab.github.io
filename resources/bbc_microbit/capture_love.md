@@ -10,7 +10,7 @@ hide_hero: true
 
 [Home](../..)/[Resources](..)/Capture Love
 
-[![](capture_love.png)](https://worlds.kodugamelab.com/world/9jjISGyGsESb0A0PUmJz0Q==)
+[![](capture_love.png)](https://www.kodugamelab.com/worlds/#9jjISGyGsESb0A0PUmJz0Q==)
 
 ![Digital Technology](../dt.png) ![Computer Science](../cs.png) ![robotics](../r.png)
 
@@ -34,7 +34,7 @@ hide_hero: true
 * Create a Kodu World using the BBC micro:bit accelerometer and buttons.
 
 ### Contents
-* [Completed World: Capture Love](https://worlds.kodugamelab.com/world/9jjISGyGsESb0A0PUmJz0Q==)
+* [Completed World: Capture Love](https://www.kodugamelab.com/worlds/#9jjISGyGsESb0A0PUmJz0Q==)
 * [Completed Kode for Level: Capture Love](https://kodu.blob.core.windows.net/kodu/Resources/Capture_Love_Kode_for_Level.pdf)
 * Project: Capture Love (micro:bit tilt, micro:bit button A, micro:bit button B)
 

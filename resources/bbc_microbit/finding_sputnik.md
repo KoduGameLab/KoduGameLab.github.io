@@ -10,7 +10,7 @@ hide_hero: true
 
 [Home](../..)/[Resources](..)/Finding Sputnik
 
-[![](finding_sputnik.png)](https://worlds.kodugamelab.com/world/4PYTRVYnz0m50vbZyxXrUA==)
+[![](finding_sputnik.png)](https://www.kodugamelab.com/worlds/#4PYTRVYnz0m50vbZyxXrUA==)
 
 ![Digital Technology](../dt.png) ![Computer Science](../cs.png) ![robotics](../r.png)
 
@@ -40,7 +40,7 @@ hide_hero: true
 * Create a storytelling Kodu world using BBC micro:bit PO and a photoresistor that effects Kodu Say and Hear.
 
 ### Contents
-* [Completed World: Finding Sputnik](https://worlds.kodugamelab.com/world/1kpftkM-8EijktqMzfw8Nw==)
+* [Completed World: Finding Sputnik](https://www.kodugamelab.com/worlds/#1kpftkM-8EijktqMzfw8Nw==)
 * Project: Finding Sputnik - photoresistor interacts with Say and Hear!
 
 ### Student Activities

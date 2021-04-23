@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Pushing the Boundaries
 
-[![](pushing_the_boundaries.png)](https://worlds.kodugamelab.com/world/6SGgz67hJUaI256NPWFpbg==)
+[![](pushing_the_boundaries.png)](https://www.kodugamelab.com/worlds/#6SGgz67hJUaI256NPWFpbg==)
 
 ## Pushing the Boundaries
 ![Digital Technology](dt.png) ![Computer Science](cs.png)
@@ -29,7 +29,7 @@ hero_height: is-small
 
 ### Contents
 * [Pushing the Boundaries](PKDesignCourse_WeekFive.pdf)<br>
-* [Complete Game: Super Mario Bros](https://worlds.kodugamelab.com/world/6SGgz67hJUaI256NPWFpbg==). Help Mario reach the end by avoiding Water, Goombas, and Bullet Bills!
+* [Complete Game: Super Mario Bros](https://www.kodugamelab.com/worlds/#6SGgz67hJUaI256NPWFpbg==). Help Mario reach the end by avoiding Water, Goombas, and Bullet Bills!
 
 ### Student Activities
 [Theme and Story](https://kodu.blob.core.windows.net/kodu/Resources/PKDesignCourse_WeekFive.pdf#page=2)<br>

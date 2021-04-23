@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Kodu Curriculum with Xbox Controller
 
-[![](kodu_curriculum_with_xbox_controller.png)](https://worlds.kodugamelab.com/world/a27rHLswIEWezQLRWAa4Pw==)
+[![](kodu_curriculum_with_xbox_controller.png)](https://www.kodugamelab.com/worlds/#a27rHLswIEWezQLRWAa4Pw==)
 
 ## Kodu Curriculum with Xbox Controller
 ![Digital Technology](dt.png) ![Computer Science](cs.png)
@@ -35,9 +35,9 @@ hero_height: is-small
 ### Contents
 * [Kodu Curriculum Xbox Controller](5_Kodu_Curriculum_Xbox_Controller.pdf)
 * [Kodu Curriculum Appendix](Kodu_Curriculum_Appendix.pdf)
-* [World: Chaotic Orbitals (Complex movement from a few simple rules.)](https://worlds.kodugamelab.com/world/a27rHLswIEWezQLRWAa4Pw==)
-* [World: Demo1 Cycle and Trees (Cycle always wanders and avoids trees)](https://worlds.kodugamelab.com/world/la0mN6apSEGGNGopgKY2Dg==)
-* [World: Project Tedanoo](https://worlds.kodugamelab.com/world/3c277F14UU6TKeqQX0POJQ==)
+* [World: Chaotic Orbitals (Complex movement from a few simple rules.)](https://www.kodugamelab.com/worlds/#a27rHLswIEWezQLRWAa4Pw==)
+* [World: Demo1 Cycle and Trees (Cycle always wanders and avoids trees)](https://www.kodugamelab.com/worlds/#la0mN6apSEGGNGopgKY2Dg==)
+* [World: Project Tedanoo](https://www.kodugamelab.com/worlds/#3c277F14UU6TKeqQX0POJQ==)
 
 ### Student Activities
 [Session 1: Basic Navigation and Kodu Principles](5_Kodu_Curriculum_Xbox_Controller.pdf#page=9)<br>

@@ -6,7 +6,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Guided Investigation
 
-[![](guided_investigation.png)](https://worlds.kodugamelab.com/world/J5PzbvQXhkSU1H33_zZ8JA==)
+[![](guided_investigation.png)](https://www.kodugamelab.com/worlds/#J5PzbvQXhkSU1H33_zZ8JA==)
 
 ## Guided Investigation
 ![Digital Technology](dt.png) ![Computer Science](cs.png)

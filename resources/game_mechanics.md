@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Game Mechanics
 
-[![](game_mechanics.png)](https://worlds.kodugamelab.com/world/O0Qlh0XHf06FrpZzMuqvJg==)
+[![](game_mechanics.png)](https://www.kodugamelab.com/worlds/#O0Qlh0XHf06FrpZzMuqvJg==)
 
 ## Game Mechanics
 ![Digital Technology](dt.png) ![Computer Science](cs.png)
@@ -27,7 +27,7 @@ hero_height: is-small
 
 ### Contents
 * [Game Mechanics](PKDesignCourse_WeekThree.pdf)
-* [Complete Game: Neo Battle Racers](https://worlds.kodugamelab.com/world/O0Qlh0XHf06FrpZzMuqvJg==) Racing Shooter
+* [Complete Game: Neo Battle Racers](https://www.kodugamelab.com/worlds/#O0Qlh0XHf06FrpZzMuqvJg==) Racing Shooter
 
 ### Student Activities
 [Designing challenge and engagement](PKDesignCourse_WeekThree.pdf#page=2)<br>

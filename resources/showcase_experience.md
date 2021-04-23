@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Showcase Experience
 
-[![](showcase_experience.png)](https://worlds.kodugamelab.com/world/3M1kkWjzb0ateucfWn9LcQ==)
+[![](showcase_experience.png)](https://www.kodugamelab.com/worlds/#3M1kkWjzb0ateucfWn9LcQ==)
 
 ## Data
 ![Digital Technology](dt.png) ![Computer Science](cs.png)

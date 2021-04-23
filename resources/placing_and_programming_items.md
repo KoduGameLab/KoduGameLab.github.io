@@ -8,7 +8,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Placing and Programming Items
 
-[![](placing_and_programming_items.png)](https://worlds.kodugamelab.com/world/HdaeSwIuKUmdSEie6b4RGQ==)
+[![](placing_and_programming_items.png)](https://www.kodugamelab.com/worlds/#HdaeSwIuKUmdSEie6b4RGQ==)
 
 ## Obstacle Course
 ![Digital Technology](dt.png) ![Computer Science](cs.png) ![Math](m.png)
@@ -28,9 +28,9 @@ hero_height: is-small
 * Lesson 6: Print Student Activity:
   * [Placing Items](6_Kodu_Curriculum_Math_Module.pdf#page=47) (1 per student)
 * Lesson 6: Present Teacher Resources:
-  * Completed Game: [Obstacle Course - Stage 1 (pink terrain)](https://worlds.kodugamelab.com/world/hZemyy6GOEGOu483QwIGTQ==)
-  * Completed Game: [Obstacle Course - Stage 1 (black terrain)](https://worlds.kodugamelab.com/world/HdaeSwIuKUmdSEie6b4RGQ==)
-  * Completed Game: [Obstacle Course - Stage 1 (white terrain)](https://worlds.kodugamelab.com/world/SKbVVDUvB0CgzPT9xyjt7g==)
+  * Completed Game: [Obstacle Course - Stage 1 (pink terrain)](https://www.kodugamelab.com/worlds/#hZemyy6GOEGOu483QwIGTQ==)
+  * Completed Game: [Obstacle Course - Stage 1 (black terrain)](https://www.kodugamelab.com/worlds/#HdaeSwIuKUmdSEie6b4RGQ==)
+  * Completed Game: [Obstacle Course - Stage 1 (white terrain)](https://www.kodugamelab.com/worlds/#SKbVVDUvB0CgzPT9xyjt7g==)
 
 ### Learning Objectives
 * Students will represent that object as a three-dimensional shape in a coordinate plane when given an object’s properties such as length, width, height, surface area, volume, and location.
@@ -50,7 +50,7 @@ Students will provide 2-3 pieces of feedback for other students who are creating
 
 <a name="placing"></a>
 [**Placing and Programming an Apple to Score and Disappear**](6_Kodu_Curriculum_Math_Module.pdf#page=44)<br>
-Students will explore and run [Obstacle Course - Stage 1](https://worlds.kodugamelab.com/world/t1I4yjCkcUiUcDV0WIjlWw==). The world contains obstacles, but not apples. Students will learn to select an apple and place it in the world. The teacher could demonstrate how to create a WHEN-DO statement. Students will learn to program the object (apple) after the character (kodu) bumped it. After the character bumped an apple, students will learn to program the object to vanish and score a point for the character. Students will learn that a WHEN-DO statement is a conditional statement. Students will learn that an action is based on a condition being met. Only when the apple is touched will it score a point and disappear. Students will learn that the WHEN part of the statement is the condition. Students will explore and play their game. Students will add a Kodu to the game and program it to move. Students will test the game by having Kodu bump an apple to ensure the apple (object) vanishes and a point appears.
+Students will explore and run [Obstacle Course - Stage 1](https://www.kodugamelab.com/worlds/#t1I4yjCkcUiUcDV0WIjlWw==). The world contains obstacles, but not apples. Students will learn to select an apple and place it in the world. The teacher could demonstrate how to create a WHEN-DO statement. Students will learn to program the object (apple) after the character (kodu) bumped it. After the character bumped an apple, students will learn to program the object to vanish and score a point for the character. Students will learn that a WHEN-DO statement is a conditional statement. Students will learn that an action is based on a condition being met. Only when the apple is touched will it score a point and disappear. Students will learn that the WHEN part of the statement is the condition. Students will explore and play their game. Students will add a Kodu to the game and program it to move. Students will test the game by having Kodu bump an apple to ensure the apple (object) vanishes and a point appears.
 *Subjects: Subjects: Math, Computer Science, Digital Technology, Engineering, 21st Century Learning*
 
 <a name="copying"></a>

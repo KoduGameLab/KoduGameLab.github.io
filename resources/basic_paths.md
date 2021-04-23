@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Basic Paths
 
-[![](basic_paths.png)](https://worlds.kodugamelab.com/world/rrRspeW3kk-xvmuOpsO5lA==)
+[![](basic_paths.png)](https://www.kodugamelab.com/worlds/#rrRspeW3kk-xvmuOpsO5lA==)
 
 ## Basic Paths
 ![Digital Technology](dt.png) ![Computer Science](cs.png)

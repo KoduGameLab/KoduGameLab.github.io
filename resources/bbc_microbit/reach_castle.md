@@ -10,7 +10,7 @@ hide_hero: true
 
 [Home](../..)/[Resources](..)/Reach Castle
 
-[![](reach_castle.png)](https://worlds.kodugamelab.com/world/pt-8eWj_fUiwVhE7ZEDk1w==)
+[![](reach_castle.png)](https://www.kodugamelab.com/worlds/#pt-8eWj_fUiwVhE7ZEDk1w==)
 
 ![Digital Technology](../dt.png) ![Computer Science](../cs.png) ![robotics](../r.png)
 
@@ -36,7 +36,7 @@ hide_hero: true
 * Create a Kodu World with game effects using BBC micro:bit Show Pattern and Pattern.
 
 ### Contents
-* [Completed World: Reach Castle](https://worlds.kodugamelab.com/world/3o1HjffZE0uTTgvL0KCtuQ==)
+* [Completed World: Reach Castle](https://www.kodugamelab.com/worlds/#3o1HjffZE0uTTgvL0KCtuQ==)
 * [Completed Kode for Level: Reach Castle](Capture_Castle_Kode_for_Level.pdf)
 * Project: Reach Castle (micro:bit show pattern, micro:bit pattern)
 

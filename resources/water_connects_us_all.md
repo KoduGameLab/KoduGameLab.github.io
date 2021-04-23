@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Water Connects Us All
 
-[![](water_connects_us_all.png)](https://worlds.kodugamelab.com/world/fbdyJ64suEmzMmNMo8cg2g==)
+[![](water_connects_us_all.png)](https://www.kodugamelab.com/worlds/#fbdyJ64suEmzMmNMo8cg2g==)
 
 ## Water Connects Us All
 ![Digital Technology](dt.png) ![Computer Science](cs.png) ![Science](s.png)
@@ -29,7 +29,7 @@ Description: Lesson 2 presents students with a game world that reframes what the
 
 ### Contents
 * [Lesson 2: Remix: Water connects us all](water_all_around_us.pdf#page=7)
-* [Tutorial World:Water connects us all (baseline)](https://worlds.kodugamelab.com/world/fbdyJ64suEmzMmNMo8cg2g==)
+* [Tutorial World:Water connects us all (baseline)](https://www.kodugamelab.com/worlds/#fbdyJ64suEmzMmNMo8cg2g==)
 
 ### Student Activities
 [Activator](water_all_around_us.pdf#page=8)<br>

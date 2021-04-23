@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Introduction to Touch Interface with Kodu
 
-[![](introduction_to_kodu_touch.png)](https://worlds.kodugamelab.com/world/z1iDdhN3PkSfHiJlgExGCA==)
+[![](introduction_to_kodu_touch.png)](https://www.kodugamelab.com/worlds/#z1iDdhN3PkSfHiJlgExGCA==)
 
 ## Introduction to Touch Interface with Kodu
 ![Digital Technology](dt.png) ![Computer Science](cs.png)
@@ -27,7 +27,7 @@ hero_height: is-small
 
 ### Contents
 * [Lesson 1: Introduction to Kodu Touch](Kodu_Touch_Primer_Lesson_1.pdf#page=1)
-* [Kodu World: Empty World](https://worlds.kodugamelab.com/world/z1iDdhN3PkSfHiJlgExGCA==)
+* [Kodu World: Empty World](https://www.kodugamelab.com/worlds/#z1iDdhN3PkSfHiJlgExGCA==)
 
 ### Student Activities
 [Activator: Kodu Nursery Rhyme](Kodu_Touch_Primer_Lesson_1.pdf#page=1)<br>

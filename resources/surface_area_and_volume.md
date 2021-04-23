@@ -8,7 +8,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Surface Area and Volume
 
-[![](surface_area_and_volume.png)](https://worlds.kodugamelab.com/world/Bf6jissB40ugXzj7hb3H1w==)
+[![](surface_area_and_volume.png)](https://www.kodugamelab.com/worlds/#Bf6jissB40ugXzj7hb3H1w==)
 
 ## Surface Area and Volume
 ![Digital Technology](dt.png) ![Computer Science](cs.png) ![Math](m.png)
@@ -26,7 +26,7 @@ hero_height: is-small
 * Lesson 4: Print Curriculum Guide:  
   * Student Activity: [Creating Shapes According to Specifications](6_Kodu_Curriculum_Math_Module.pdf#page=34) (1 per student)
 * Lesson 4: Teacher Presentation Resource:
-  * Complete Kodu World: [Flying Blimp](https://worlds.kodugamelab.com/world/adNUNlk_pEKJqDDbRoLMJQ==)  
+  * Complete Kodu World: [Flying Blimp](https://www.kodugamelab.com/worlds/#adNUNlk_pEKJqDDbRoLMJQ==)  
 
 ### Learning Objectives
 * Students will describe the change as a fraction of the original shape when given a change to a shape.
@@ -40,7 +40,7 @@ hero_height: is-small
 * Student Activity:
   * [Creating Shapes According to Specifications](#creating)
 * Complete Kodu World: 
-  * [Flying Blimp](<https://worlds.kodugamelab.com/world/adNUNlk_pEKJqDDbRoLMJQ==>)
+  * [Flying Blimp](<https://www.kodugamelab.com/worlds/#adNUNlk_pEKJqDDbRoLMJQ==>)
 
 ### Student Activities
 <a name="activator"></a>

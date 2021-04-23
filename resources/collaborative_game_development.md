@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Collaborative Game Development
 
-[![](collaborative_game_development.png)](https://worlds.kodugamelab.com/world/PxPCZcqEiUKilsK6RqeU5w==)
+[![](collaborative_game_development.png)](https://www.kodugamelab.com/worlds/#PxPCZcqEiUKilsK6RqeU5w==)
 
 ## Collaborative Game Development
 ![Digital Technology](dt.png) ![Computer Science](cs.png)

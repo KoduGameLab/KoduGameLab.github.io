@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Rapid Prototyping
 
-[![](rapid_prototyping.png)](https://worlds.kodugamelab.com/world/JB_AMqu4Pk2_mQEICpgZvQ==)
+[![](rapid_prototyping.png)](https://www.kodugamelab.com/worlds/#JB_AMqu4Pk2_mQEICpgZvQ==)
 
 ## Rapid Prototyping
 ![Digital Technology](dt.png) ![Computer Science](cs.png)
@@ -27,7 +27,7 @@ hero_height: is-small
 
 ### Contents
 * [Rapid Prototyping](PKDesignCourse_WeekTwo.pdf)
-* [Complete Game: Fusionoid](https://worlds.kodugamelab.com/world/JB_AMqu4Pk2_mQEICpgZvQ==) (The Clouds are overheating! Eat the icy blue Apples to cool them down - eat all of the Apples to win! Game over when yellow score reaches 20.)
+* [Complete Game: Fusionoid](https://www.kodugamelab.com/worlds/#JB_AMqu4Pk2_mQEICpgZvQ==) (The Clouds are overheating! Eat the icy blue Apples to cool them down - eat all of the Apples to win! Game over when yellow score reaches 20.)
 
 ### Student Activities
 [Rapid Prototyping](PKDesignCourse_WeekTwo.pdf#page=2)<br>

@@ -10,7 +10,7 @@ hide_hero: true
 
 [Home](../..)/[Resources](..)/Twinkle
 
-[![](twinkle.png)](https://worlds.kodugamelab.com/world/CtE_WSUVGE-6m0U_wAu0Uw==)
+[![](twinkle.png)](https://www.kodugamelab.com/worlds/#CtE_WSUVGE-6m0U_wAu0Uw==)
 
 ![Digital Technology](../dt.png) ![Computer Science](../cs.png) ![robotics](../r.png)
 
@@ -38,7 +38,7 @@ hide_hero: true
 * Create a complex Kodu World with game effects using BBC micro:bit Show Pattern and Pattern.
 
 ### Contents
-* [Completed World: Twinkle](https://worlds.kodugamelab.com/world/CtE_WSUVGE-6m0U_wAu0Uw==)
+* [Completed World: Twinkle](https://www.kodugamelab.com/worlds/#CtE_WSUVGE-6m0U_wAu0Uw==)
 * [Completed Kode for Level: Twinkle](Twinkle_Kode_for_Level1.pdf)
 * Project: Twinkle (micro:bit show pattern, micro:bit pattern)
 

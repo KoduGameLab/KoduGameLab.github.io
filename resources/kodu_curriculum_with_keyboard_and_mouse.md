@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Kodu Curriculum with Keyboard and Mouse
 
-[![](kodu_curriculum_with_keyboard_and_mouse.png)](https://worlds.kodugamelab.com/world/zoFaHmFpPUaSMNWLUIzqCA==)
+[![](kodu_curriculum_with_keyboard_and_mouse.png)](https://www.kodugamelab.com/worlds/#zoFaHmFpPUaSMNWLUIzqCA==)
 
 ## Kodu Curriculum with Keyboard and Mouse
 ![Digital Technology](dt.png) ![Computer Science](cs.png)
@@ -37,7 +37,7 @@ hero_height: is-small
 ### Contents
 * [Kodu Curriculum Getting Started Keyboard and Mouse](4_Kodu_Curriculum_Keyboard_and_Mouse.pdf)
 * [Kodu Curriculum Appendix](Kodu_Curriculum_Appendix.pdf)
-* [World: Idyll (Rescue the wisps from the castle! Good small adventure demonstrating many techniques.)](https://worlds.kodugamelab.com/world/la0mN6apSEGGNGopgKY2Dg==)
+* [World: Idyll (Rescue the wisps from the castle! Good small adventure demonstrating many techniques.)](https://www.kodugamelab.com/worlds/#la0mN6apSEGGNGopgKY2Dg==)
 
 ### Student Activities
 [Session 1: Navigating, Intro to Programming Concepts, Adding Objects](4_Kodu_Curriculum_Keyboard_and_Mouse.pdf#page=13)<br>

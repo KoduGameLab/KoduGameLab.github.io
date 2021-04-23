@@ -8,7 +8,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Growing Squares
 
-[![](growing_squares.png)](https://worlds.kodugamelab.com/world/dTZs7fWnRkygPa6j0RjR0g==)
+[![](growing_squares.png)](https://www.kodugamelab.com/worlds/#dTZs7fWnRkygPa6j0RjR0g==)
 
 ## Growing Squares
 ![Digital Technology](dt.png) ![Computer Science](cs.png) ![Math](m.png)

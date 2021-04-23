@@ -10,7 +10,7 @@ hide_hero: true
 
 [Home](../..)/[Resources](..)/Bucket Toss
 
-[![](bucket_toss.png)](https://worlds.kodugamelab.com/world/ivQABN6jkUa5MD5gx27Qrg==)
+[![](bucket_toss.png)](https://www.kodugamelab.com/worlds/#ivQABN6jkUa5MD5gx27Qrg==)
 
 ![Digital Technology](../dt.png) ![Computer Science](../cs.png) ![robotics](../r.png)
 
@@ -37,8 +37,8 @@ hide_hero: true
 * Create a Kodu World with game effects using BBC micro:bit Shake.
 
 ### Contents
-* [Design Only: Bucket Toss](https://worlds.kodugamelab.com/world/zkCJkFCk5kGR46WVTovP2A==)
-* [Completed World: Bucket Toss](https://worlds.kodugamelab.com/world/ivQABN6jkUa5MD5gx27Qrg==)
+* [Design Only: Bucket Toss](https://www.kodugamelab.com/worlds/#zkCJkFCk5kGR46WVTovP2A==)
+* [Completed World: Bucket Toss](https://www.kodugamelab.com/worlds/#ivQABN6jkUa5MD5gx27Qrg==)
 * [Completed Kode for Level: Bucket Toss](Bucket_Toss_Kode_for_Level.pdf)
 * Project: Bucket Toss (BBC micro:bit shake)
 

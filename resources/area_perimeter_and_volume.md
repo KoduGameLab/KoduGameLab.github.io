@@ -8,7 +8,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Area, Perimeter, and Volume
 
-[![](area_perimeter_and_volume.png)](https://worlds.kodugamelab.com/world/Jke0ZOagVkeROoIlLIHngQ==)
+[![](area_perimeter_and_volume.png)](https://www.kodugamelab.com/worlds/#Jke0ZOagVkeROoIlLIHngQ==)
 
 ## Area, Perimeter, and Volume
 ![Digital Technology](dt.png) ![Computer Science](cs.png) ![Math](m.png)

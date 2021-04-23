@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Placing and Customizing Objects
 
-[![](placing_customizing_objects.png)](https://worlds.kodugamelab.com/world/ofYhiqIvt0acxxigAuULHQ==)
+[![](placing_customizing_objects.png)](https://www.kodugamelab.com/worlds/#ofYhiqIvt0acxxigAuULHQ==)
 
 ## Placing and Customizing Objects
 ![Digital Technology](dt.png) ![Computer Science](cs.png)
@@ -29,7 +29,7 @@ hero_height: is-small
 
 ### Contents
 * [Lesson 2: Introduction to Kodu Touch](Kodu_Touch_Primer_Lesson_2.pdf#page=1)
-* [Starter World: Kodu Touch Lesson 2 (Apples, Tree, and Kodu) ](https://worlds.kodugamelab.com/world/z1iDdhN3PkSfHiJlgExGCA==)
+* [Starter World: Kodu Touch Lesson 2 (Apples, Tree, and Kodu) ](https://www.kodugamelab.com/worlds/#z1iDdhN3PkSfHiJlgExGCA==)
 
 ### Student Activities
 [Activity: Kodu Kraft](Kodu_Touch_Primer_Lesson_2.pdf#page=1)<br>

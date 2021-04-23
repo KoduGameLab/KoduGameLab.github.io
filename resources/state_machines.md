@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/State Machines
 
-[![](state_machines.png)](https://worlds.kodugamelab.com/world/r9vwvpH3v0SnRRZnB69x2Q==)
+[![](state_machines.png)](https://www.kodugamelab.com/worlds/#r9vwvpH3v0SnRRZnB69x2Q==)
 
 ## State Machines
 ![Digital Technology](dt.png) ![Computer Science](cs.png)

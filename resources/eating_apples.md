@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Eating Apples
 
-[![](eating_apples.png)](https://worlds.kodugamelab.com/world/S1H25ZyicEmv-_KT_DsaIQ==)
+[![](eating_apples.png)](https://www.kodugamelab.com/worlds/#S1H25ZyicEmv-_KT_DsaIQ==)
 
 ## Kodu Introduction; Eating apples in the Kodu world 
 ![Digital Technology](dt.png) ![Computer Science](cs.png)

@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Kodu Konundrum
 
-[![](kodu_konundrum.png)](https://worlds.kodugamelab.com/world/dxFmr9cZLkGWeFv2y_1mrw==)
+[![](kodu_konundrum.png)](https://www.kodugamelab.com/worlds/#dxFmr9cZLkGWeFv2y_1mrw==)
 
 ## Kodu Konundrum
 ![Digital Technology](dt.png) ![Computer Science](cs.png)
@@ -28,7 +28,7 @@ hero_height: is-small
 
 ### Contents
 * [Lesson 4: Koding Konundrum](Kodu_Touch_Primer_Lesson_4.pdf#page=1)
-* [Starter World: Kodu Touch Lesson 4 (Kodu eats only red apples)](https://worlds.kodugamelab.com/world/dxFmr9cZLkGWeFv2y_1mrw==)
+* [Starter World: Kodu Touch Lesson 4 (Kodu eats only red apples)](https://www.kodugamelab.com/worlds/#dxFmr9cZLkGWeFv2y_1mrw==)
 * [Koloring Kodu World](Koloring_Kodu_World.pdf)
 
 ### Student Activities

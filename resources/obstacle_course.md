@@ -8,7 +8,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Obstacle Course
 
-[![](obstacle_course.png)](https://worlds.kodugamelab.com/world/SKbVVDUvB0CgzPT9xyjt7g==)
+[![](obstacle_course.png)](https://www.kodugamelab.com/worlds/#SKbVVDUvB0CgzPT9xyjt7g==)
 
 ## Obstacle Course
 ![Digital Technology](dt.png) ![Computer Science](cs.png) ![Math](m.png)
@@ -28,9 +28,9 @@ hero_height: is-small
   * [Obstacle Course Construction](6_Kodu_Curriculum_Math_Module.pdf#page=41) (1 per student)
   * [Obstacle Course Mini-Game](6_Kodu_Curriculum_Math_Module.pdf#page=41) (1 per student)
 * Lesson 5: Present Teacher Resources:
-  * Completed Game: [Flying Blimp](<https://worlds.kodugamelab.com/world/adNUNlk_pEKJqDDbRoLMJQ==>)
-  * Completed Game: [Flying Blimp with obstacles](<https://worlds.kodugamelab.com/world/Bf6jissB40ugXzj7hb3H1w==>)
-  * Completed Game: [Obstacle Course](<https://worlds.kodugamelab.com/world/Jke0ZOagVkeROoIlLIHngQ==>)
+  * Completed Game: [Flying Blimp](<https://www.kodugamelab.com/worlds/#adNUNlk_pEKJqDDbRoLMJQ==>)
+  * Completed Game: [Flying Blimp with obstacles](<https://www.kodugamelab.com/worlds/#Bf6jissB40ugXzj7hb3H1w==>)
+  * Completed Game: [Obstacle Course](<https://www.kodugamelab.com/worlds/#Jke0ZOagVkeROoIlLIHngQ==>)
 
 ### Learning Objectives
 * Students will design a computer simulation to represent the situation, analyze the resulting data, and display the data in a table or graph.
@@ -49,7 +49,7 @@ Students will complete the Student Activity: [Obstacle Course Mini-Game](6_Kodu_
 
 <a name="demo"></a>
 [**Obstacle Course Game Demonstration**](6_Kodu_Curriculum_Math_Module.pdf#page=38)
-The teacher should demo the Completed Game: [Obstacle Course](https://worlds.kodugamelab.com/world/Jke0ZOagVkeROoIlLIHngQ==). The students will observe the grid that the world exists on. The students will observe the raised shapes of different sizes at different locations on the grid that compose the landscape of the game. Students will observe how to play the game. Students will observe the code for the Kodu, tree, apples, and timer. Students will observe the extra decorations and objects that compose the world.
+The teacher should demo the Completed Game: [Obstacle Course](https://www.kodugamelab.com/worlds/#Jke0ZOagVkeROoIlLIHngQ==). The students will observe the grid that the world exists on. The students will observe the raised shapes of different sizes at different locations on the grid that compose the landscape of the game. Students will observe how to play the game. Students will observe the code for the Kodu, tree, apples, and timer. Students will observe the extra decorations and objects that compose the world.
 *Subjects: Subjects: Math, Computer Science, Digital Technology, Engineering, 21st Century Learning*
 
 ### Performance Expectations

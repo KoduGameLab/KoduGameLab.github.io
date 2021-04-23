@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Kodu Curriculum Getting Started with Keyboard and Mouse
 
-[![](getting_started_with_keyboard_and_mouse.png)](https://worlds.kodugamelab.com/world/T4X1-9ojQEujLDuxvnQMDQ==)
+[![](getting_started_with_keyboard_and_mouse.png)](https://www.kodugamelab.com/worlds/#T4X1-9ojQEujLDuxvnQMDQ==)
 
 ## Kodu Curriculum Getting Started with Keyboard and Mouse
 ![Digital Technology](dt.png) ![Computer Science](cs.png)
@@ -26,7 +26,7 @@ hero_height: is-small
 ### Contents
 * [Kodu Curriculum Getting Started with Keyboard and Mouse](1_Kodu_Curriculum_Getting_Started_Keyboard_and_Mouse.pdf)
 * [Kodu Curriculum Appendix](Kodu_Curriculum_Appendix.pdf)
-* [Terrain Tools: Cat Daddy](https://worlds.kodugamelab.com/world/la0mN6apSEGGNGopgKY2Dg==)
+* [Terrain Tools: Cat Daddy](https://www.kodugamelab.com/worlds/#la0mN6apSEGGNGopgKY2Dg==)
 
 ### Student Activities
 [Load World](1_Kodu_Curriculum_Getting_Started_Keyboard_and_Mouse.pdf#page=3)<br>

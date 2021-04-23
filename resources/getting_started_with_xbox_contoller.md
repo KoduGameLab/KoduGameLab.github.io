@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Kodu Curriculum Getting Started with Xbox Controller
 
-[![](getting_started_with_xbox_controller.png)](https://worlds.kodugamelab.com/world/unirU5NOr0-dpWPpFyAt1g==)
+[![](getting_started_with_xbox_controller.png)](https://www.kodugamelab.com/worlds/#unirU5NOr0-dpWPpFyAt1g==)
 
 ## Kodu Curriculum Getting Started with Xbox Controller
 ![Digital Technology](dt.png) ![Computer Science](cs.png)
@@ -27,7 +27,7 @@ hero_height: is-small
 ### Contents
 * [Kodu Curriculum Getting Started with Xbox Controller](2_Kodu_Curriculum_Getting_Started_XBox_Controller.pdf)
 * [Kodu Curriculum Appendix](Kodu_Curriculum_Appendix.pdf)
-* [Kodu World: Xevon](https://worlds.kodugamelab.com/world/unirU5NOr0-dpWPpFyAt1g==)
+* [Kodu World: Xevon](https://www.kodugamelab.com/worlds/#unirU5NOr0-dpWPpFyAt1g==)
 
 ### Student Activities
 [Load World](2_Kodu_Curriculum_Getting_Started_XBox_Controller.pdf#page=1)<br>

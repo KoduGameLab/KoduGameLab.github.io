@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Water Cycle Model
 
-[![](water_cycle_model.png)](https://worlds.kodugamelab.com/world/fze6aXWb1kWSICi7zTAWuw==)
+[![](water_cycle_model.png)](https://www.kodugamelab.com/worlds/#fze6aXWb1kWSICi7zTAWuw==)
 
 ## Water Cycle Model
 ![Digital Technology](dt.png) ![Computer Science](cs.png) ![Science](s.png)
@@ -32,8 +32,8 @@ Description: Lesson 3 presents students with the challenge to construct their ow
 
 ### Contents
 * [Lesson 3: Create Water Cycle Model](water_all_around_us.pdf#page=19)
-* [Level 3: Starter World Kodu and the Water Cycle](https://worlds.kodugamelab.com/world/fze6aXWb1kWSICi7zTAWuw==)
-* [Level 3: Starter World Waterfalls using creatables](https://worlds.kodugamelab.com/world/UMv2OoO2HUmwqonmqOswgw==)
+* [Level 3: Starter World Kodu and the Water Cycle](https://www.kodugamelab.com/worlds/#fze6aXWb1kWSICi7zTAWuw==)
+* [Level 3: Starter World Waterfalls using creatables](https://www.kodugamelab.com/worlds/#UMv2OoO2HUmwqonmqOswgw==)
 
 ### Student Activities
 [Activator](water_all_around_us.pdf#page=19)(<br>

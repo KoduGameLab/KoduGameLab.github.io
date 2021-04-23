@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Creative Collaboration
 
-[![](creative_collaboration.png)](https://worlds.kodugamelab.com/world/EJMt3_gHVk-Km3rmlcNquQ==)
+[![](creative_collaboration.png)](https://www.kodugamelab.com/worlds/#EJMt3_gHVk-Km3rmlcNquQ==)
 
 ## Creative Collaboration
 ![Digital Technology](dt.png) ![Computer Science](cs.png)

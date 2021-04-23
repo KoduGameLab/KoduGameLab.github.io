@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Rule Ordering
 
-[![](rule_ordering.png)](https://worlds.kodugamelab.com/world/iiFdblJT2UO1FXbL1eOXTg==)
+[![](rule_ordering.png)](https://www.kodugamelab.com/worlds/#iiFdblJT2UO1FXbL1eOXTg==)
 
 ## Ruler Ordering
 ![Digital Technology](dt.png) ![Computer Science](cs.png)

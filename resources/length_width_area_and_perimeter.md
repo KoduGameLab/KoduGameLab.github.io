@@ -8,7 +8,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Length, Width, Area, and Perimeter
 
-[![](length_width_area_and_perimeter.png)](https://worlds.kodugamelab.com/world/SbwTS4YgKkaXS7LmKG67TQ==)
+[![](length_width_area_and_perimeter.png)](https://www.kodugamelab.com/worlds/#SbwTS4YgKkaXS7LmKG67TQ==)
 
 ## Length, Width, Area, and Perimeter
 ![Digital Technology](dt.png) ![Computer Science](cs.png) ![Math](m.png)

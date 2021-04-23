@@ -10,7 +10,7 @@ hide_hero: true
 
 [Home](../..)/[Resources](..)/Air Hockey
 
-[![](air_hockey.png)](https://worlds.kodugamelab.com/world/RgSNHPh2fkas6nTQ0WN-Aw==)
+[![](air_hockey.png)](https://www.kodugamelab.com/worlds/#RgSNHPh2fkas6nTQ0WN-Aw==)
 
 ![Digital Technology](../dt.png) ![Computer Science](../cs.png) ![robotics](../r.png)
 
@@ -36,8 +36,8 @@ hide_hero: true
 * Create a multiplayer Air Hockey Kodu World with BBC micro:bit Player 1 and BBC micro:bit Player 2.
 
 ### Contents
-* [Design Only:Air Hockey](https://worlds.kodugamelab.com/world/vBs5DkeXQEi2Chnn3teWxA==)
-* [Completed World: Air Hockey](https://worlds.kodugamelab.com/world/RgSNHPh2fkas6nTQ0WN-Aw==)
+* [Design Only:Air Hockey](https://www.kodugamelab.com/worlds/#vBs5DkeXQEi2Chnn3teWxA==)
+* [Completed World: Air Hockey](https://www.kodugamelab.com/worlds/#RgSNHPh2fkas6nTQ0WN-Aw==)
 * Project: Air Hockey (BBC micro:bit Player 1, BBC micro:bit Player 2)
 
 ### Student Activities

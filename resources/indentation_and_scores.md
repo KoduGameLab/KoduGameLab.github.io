@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Indentation and Scores
 
-[![](indentation_and_scores.png)](https://worlds.kodugamelab.com/world/zcdXLuG_5EOxVCKk79m6SA==)
+[![](indentation_and_scores.png)](https://www.kodugamelab.com/worlds/#zcdXLuG_5EOxVCKk79m6SA==)
 
 ## Indentation and Scores
 ![Digital Technology](dt.png) ![Computer Science](cs.png)

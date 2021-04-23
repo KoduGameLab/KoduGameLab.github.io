@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Single Session Introduction for PC and Xbox Controller
 
-[![](single_session_introduction_for_pc_and_xbox_controller.png)](https://worlds.kodugamelab.com/world/qCuGGZ0pfUChRiO1_lkbsw==)
+[![](single_session_introduction_for_pc_and_xbox_controller.png)](https://www.kodugamelab.com/worlds/#qCuGGZ0pfUChRiO1_lkbsw==)
 
 ## Single Session Introduction for PC and Xbox Controller
 ![Digital Technology](dt.png) ![Computer Science](cs.png)
@@ -31,7 +31,7 @@ hero_height: is-small
 ### Contents
 * [Single Session Introduction](3_Kodu_Curriculum_Single_Session_Intro.pdf)
 * [Kodu Curriculum Appendix](Kodu_Curriculum_Appendix.pdf)
-* [Complete Demo: Cycle and Trees (Cycle always wanders and avoids trees)](https://worlds.kodugamelab.com/world/la0mN6apSEGGNGopgKY2Dg==)
+* [Complete Demo: Cycle and Trees (Cycle always wanders and avoids trees)](https://www.kodugamelab.com/worlds/#la0mN6apSEGGNGopgKY2Dg==)
 
 ### Student Activities
 [Basic Navigation](3_Kodu_Curriculum_Single_Session_Intro.pdf#page=4)<br>
