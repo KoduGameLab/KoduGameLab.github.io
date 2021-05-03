@@ -9,6 +9,8 @@ hide_footer: true
 
 
 
-[KoduSetup.EXE](https://kodugamelab.blob.core.windows.net/blob/Builds/KoduSetup_1.5.76.0.exe)
+## Version 1.5.79.0<br>
 
-[KoduSetup.MSI](https://kodugamelab.blob.core.windows.net/blob/Builds/KoduSetup_1.5.76.0.msi)
+[KoduSetup.EXE](https://kodugamelab.blob.core.windows.net/blob/Builds/KoduSetup_1.5.79.0.exe)
+
+[KoduSetup.MSI](https://kodugamelab.blob.core.windows.net/blob/Builds/KoduSetup_1.5.79.0.msi)
