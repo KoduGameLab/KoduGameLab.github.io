@@ -80,6 +80,8 @@ The Microsoft Store build uses the results of a normal build.
 > - At Game overview select Update for the current submission.
 > - Click on Packages.
 > - Drag/drop new msix package into box on web page.  After the upload, a quick validity check will be done.  This will find errors in PackageName or PublisherName etc. 
+> - Decide whether to force this update or roll it out slowly and hit Save.
+> - Once saved the final step is to Submit to Microsoft Store.
 
 
 
