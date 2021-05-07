@@ -1,5 +1,5 @@
 ---
-title: New Kodu Release 1.5.80.0
+title: New Kodu Release 1.5.81.0
 subtitle: Oops!
 layout: post
 published: true
@@ -7,7 +7,7 @@ show_sidebar: true
 author: "scoy"
 ---
 
-## New Kodu Release 1.5.80.0
+## New Kodu Release 1.5.81.0
 
 Looks like I made a mistake with the last release which caused the terrain for worlds to disappear when imported.  Apologies.  This new version should fix the problem.
 
