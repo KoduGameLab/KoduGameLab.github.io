@@ -71,7 +71,7 @@ hero_link_text: Get Kodu
     </div>
 
     <div class="column is-4-desktop is-6-tablet">
-        <a href="screenshot">
+        <a href="screenshots">
         <div class="card">
             <div class="card-image">
                 <figure class="image ">
