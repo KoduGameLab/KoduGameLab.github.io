@@ -45,7 +45,7 @@ initFeatured()
 ## [EULA and Code of Conduct](EULA#eula)
 
 
-## Questions?
+## Questions? 
 For questions or any support issues, email <KoduSupport@InfiniteInstant.com>.
 
 ![Kodu Game Lab](images/footer.png)
