@@ -31,7 +31,7 @@ If you need a specific version of Kodu, email <KoduSupport@InfiniteInstant.com>.
 
 ## System Requirements
 ### Supported Operating Systems
-Windows 10, Windows 7, Windows 8, Windows Vista, Windows XP
+Windows 10, Windows 7, Windows 8, Windows Vista
 
 A graphics card that supports DirectX 9.0c and Shader Model 2.0 or higher is required. .NET Framework 4.0 or higher is required. XNA Framework 4.0 Redistributable is required.  The XNA redist is included in the .EXE version of the installer.  For system admins installing via the .MSI you can get the XNA redist here: [XNA 4 Redist](https://kodugamelab.blob.core.windows.net:443/blob/xnafx40_redist.msi) 
 
