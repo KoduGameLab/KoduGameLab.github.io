@@ -30,6 +30,10 @@ In the solution there are several build options.  The three that matter are **De
 Currently, the builds are being hosted on Azure blob storage at  **<https://kodugamelab.blob.core.windows.net/blob/Builds/>**.  
 
 - Rename the .msi build to match the naming of the .exe.  The current naming format is KoduSetup_1.5.53.0.exe and KoduSetup_1.5.53.0.msi.  (version numbers changed, of course)
+- Sign the builds with SignTool.exe.<br>
+  **c:> SignTool sign /a foo.msi**<br>
+  The /a option automatically picks up the correct cert.<br>
+  Cert was bought from <https://www.ksoftware.net/code-signing-certificates/>
 - Upload the builds to Azure.
 - Edit the downloads page **KoduGameLab.github.io\downloads\index.md** markdown file to point to the new builds.
 - Commit and push the changes.
