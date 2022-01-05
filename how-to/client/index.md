@@ -35,6 +35,16 @@ Currently, the builds are being hosted on Azure blob storage at  **<https://kodu
   The /a option automatically picks up the correct cert.<br>
   Cert was bought from <https://www.ksoftware.net/code-signing-certificates/>
 - Upload the builds to Azure.
+- Send the builds to MS for malware analysis. <https://www.microsoft.com/en-us/wdsi/filesubmission/>
+> - product : Microsoft Defender Smartscreen
+> - company name : InfiniteInstant
+> - case number? : No
+> - SAID : none
+> - removed at certain date? : No
+> - What do you believe this file is? : Incorrectly detected
+>> - Detection Name : SmartScreen
+>> - Definite Version : leave blank
+>> - Additional Info : New Version of Kodu Game Lab
 - Edit the downloads page **KoduGameLab.github.io\downloads\index.md** markdown file to point to the new builds.
 - Commit and push the changes.
 - [Update the Version Server.](https://KoduGameLab.github.io/how-to/website#version)
