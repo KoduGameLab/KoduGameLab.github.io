@@ -2,9 +2,9 @@
 <Message_Version xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <Token>General</Token>
     <Major>1</Major>
-    <Minor>5</Minor>
-    <Build>81</Build>
+    <Minor>6</Minor>
+    <Build>11</Build>
     <Revision>0</Revision>
-    <ReleaseNotesUrl>https://www.kodugamelab.com/2021/05/06/new-kodu-release-1-5-81-0.html</ReleaseNotesUrl>
+    <ReleaseNotesUrl>https://www.kodugamelab.com/2022/01/05/new-kodu-release-1-6-11-0.html</ReleaseNotesUrl>
     <UpdateUrl>https://www.kodugamelab.com/downloads</UpdateUrl>
 </Message_Version>
