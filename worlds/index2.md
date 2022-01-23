@@ -284,7 +284,7 @@ $().ready(function(){
       }
 
       if(guid.length==36){//minimal sanity check. 36 = len of guid
-        let dataUrl = "https://koduworlds.azurewebsites.net/world/"+guid
+        let dataUrl = "https://koduworlds-test.azurewebsites.net/world/"+guid
         //todo validate guid.
         $.get( dataUrl, function( world ) {
             //todo handle error. Fill in modal with World Not Found? 
@@ -296,7 +296,7 @@ $().ready(function(){
 
               let thumbUrl = world.ThumbnailUrl
               if(!thumbUrl || thumbUrl==null)
-                thumbUrl="https://koduworlds.azurewebsites.net/thumbnail/"+world.WorldId
+                thumbUrl="https://koduworlds-test.azurewebsites.net/thumbnail/"+world.WorldId
 
               let item=$(".world-item").first().clone();
               //and fill it in with world data
@@ -308,7 +308,7 @@ $().ready(function(){
               item.find("[data-type='ago']").text(world.Modified);
               item.find("[data-type='ago']").attr("datetime",world.Modified);
               item.find("[data-type='thumbnail']").attr("src",thumbUrl)
-              item.find("[data-type='download-link']").attr("href","https://koduworlds.azurewebsites.net/download/"+world.WorldId+"?fn="+
+              item.find("[data-type='download-link']").attr("href","https://koduworlds-test.azurewebsites.net/download/"+world.WorldId+"?fn="+
                 createDotKoduFilename(world.Name,world.Creator))
               item.show();//template defaults to hidden so show.
 
@@ -438,7 +438,7 @@ $().ready(function(){
 
       //todo change to post search api
       let urlArgs= "?first="+curFirst+"&count="+curCount+"&sortBy="+curSort+"&range="+curRange;
-      baseUrl = "https://koduworlds.azurewebsites.net/search/"+curSearch
+      baseUrl = "https://koduworlds-test.azurewebsites.net/search/"+curSearch
       let url=baseUrl+urlArgs
       curFirst+=curCount;
 
@@ -458,7 +458,7 @@ $().ready(function(){
 
               let thumbUrl = world.ThumbnailUrl
               if(!thumbUrl || thumbUrl==null)
-                thumbUrl="https://koduworlds.azurewebsites.net/thumbnail/"+world.WorldId
+                thumbUrl="https://koduworlds-test.azurewebsites.net/thumbnail/"+world.WorldId
 
               //and fill it in with world data
               item.find("[data-type='worldref']").attr("href","#"+world.WorldId);
@@ -478,7 +478,7 @@ $().ready(function(){
               item.find("[data-type='ago']").text(world.Modified);
               item.find("[data-type='ago']").attr("datetime",world.Modified);
               item.find("[data-type='thumbnail']").attr("src",thumbUrl)
-              item.find("[data-type='download-link']").attr("href","https://koduworlds.azurewebsites.net/download/"+world.WorldId+"?fn="+createDotKoduFilename(world.Name,world.Creator))
+              item.find("[data-type='download-link']").attr("href","https://koduworlds-test.azurewebsites.net/download/"+world.WorldId+"?fn="+createDotKoduFilename(world.Name,world.Creator))
 
               let quality=params["quality"]
               if(quality)
