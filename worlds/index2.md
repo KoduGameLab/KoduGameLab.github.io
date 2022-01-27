@@ -159,19 +159,6 @@ function base64ToHex(str) {
 
 function decodeGuid(encodedGuid)
 {
-      //"dTZs7fWnRkygPa6j0RjR0g=="
-
-      // 75366ced-f5a7-464c-a03d-aea3d118d1d2
-      // 75366ced-f5a7-464c-a03d-aea3d118d1d2
-
-      // 38DB4312-DEDF-4EC1-84DC-2B31974A5926
-
-      // 49bc134b-8620-2a46-974b-b2e6286ebb4d
-
-      // 4B13BC49-2086-462A-974B-B2E6286EBB4D
-      // 4b13bc49-2086-462a-974b-b2e6286ebb4d
-
-      //ns[0]=os[]
 
       var decoded = base64ToHex(encodedGuid);
 
@@ -194,12 +181,8 @@ function decodeGuid(encodedGuid)
       decoded = chunks.join("-");
       return (decoded)
 }
-decodeGuid("SbwTS4YgKkaXS7LmKG67TQ==")
-//TODO. Page caching may not be working right!!
-//Todo. MrPresident levels all white.
-//todo. sudden 502 on thumbs. 
-//todo. fix short encoding on world page
-  
+                                                                                     
+var worldsUrl = "https://koduworlds-test.azurewebsites.net/web/'  
 $().ready(function(){
     $(".world-item").hide();//hide template at start.
     jQuery.timeago.settings.strings.minute = "1 minute";//remove "about" (ug)
@@ -227,10 +210,6 @@ $().ready(function(){
     {  
       search=""//Make sure str is blank
     }
-
-    //Show featured if not doing any sort of query
-    // if(window.location.search=="")
-    //   initFeatured();
     
     let sortBy=params["sortBy"]
     if(!sortBy)
@@ -271,24 +250,21 @@ $().ready(function(){
       doNav($(".search").val(),sortBy,e.target.innerHTML.trim().toLocaleLowerCase())
     });
 
-
     //if a world id was specified fetch that world meta and display in modal
     if(window.location.hash){
       let guid = window.location.hash.slice(1)//slice removes # at start.
 
       //handle base64 guids.
-      //todo. Fix. Not working
       if(guid.length==24 && guid[22]=='=' && guid[23]=='=') //base64 guid?
       {
         guid=decodeGuid(guid)
       }
 
+
       if(guid.length==36){//minimal sanity check. 36 = len of guid
-        let dataUrl = "https://koduworlds-test.azurewebsites.net/web/world/"+guid
-        //todo validate guid.
+        let dataUrl = worldsUrl+"world/"+guid
+
         $.get( dataUrl, function( world ) {
-            //todo handle error. Fill in modal with World Not Found? 
-            //console.log("Got Zero Search Results")
             if(world)
             {
               //todo. unify this code with pageload version
@@ -296,7 +272,7 @@ $().ready(function(){
 
               let thumbUrl = world.ThumbnailUrl
               if(!thumbUrl || thumbUrl==null)
-                thumbUrl="https://koduworlds-test.azurewebsites.net/web/thumbnail/"+world.WorldId
+                thumbUrl=worldsUrl+"thumbnail/"+world.WorldId
 
               let item=$(".world-item").first().clone();
               //and fill it in with world data
@@ -308,7 +284,7 @@ $().ready(function(){
               item.find("[data-type='ago']").text(world.Modified);
               item.find("[data-type='ago']").attr("datetime",world.Modified);
               item.find("[data-type='thumbnail']").attr("src",thumbUrl)
-              item.find("[data-type='download-link']").attr("href","https://koduworlds-test.azurewebsites.net/web/download/"+world.WorldId+"?fn="+
+              item.find("[data-type='download-link']").attr("href",worldsUrl+"download/"+world.WorldId+"?fn="+
                 createDotKoduFilename(world.Name,world.Creator))
               item.show();//template defaults to hidden so show.
 
@@ -458,7 +434,7 @@ $().ready(function(){
 
               let thumbUrl = world.ThumbnailUrl
               if(!thumbUrl || thumbUrl==null)
-                thumbUrl="https://koduworlds-test.azurewebsites.net/web/thumbnail/"+world.WorldId
+                thumbUrl=worldsUrl+"thumbnail/"+world.WorldId
 
               //and fill it in with world data
               item.find("[data-type='worldref']").attr("href","#"+world.WorldId);
@@ -466,19 +442,11 @@ $().ready(function(){
               item.find("[data-type='authorname']").text("by "+world.Creator);
               item.find("[data-type='description']").text(world.Description);
 
-              // //temp adjust downloads
-              let adjustedDownloads = world.Downloads
-              // if(world.Downloads > 100)
-              // {
-              //   adjustedDownloads = Math.round(Math.pow(world.Downloads-100,0.6)+100)
-              // }
-
- 
               item.find("[data-type='downloads']").text(adjustedDownloads+"⇩" ); /* &#8681 */
               item.find("[data-type='ago']").text(world.Modified);
               item.find("[data-type='ago']").attr("datetime",world.Modified);
               item.find("[data-type='thumbnail']").attr("src",thumbUrl)
-              item.find("[data-type='download-link']").attr("href","https://koduworlds-test.azurewebsites.net/web/download/"+world.WorldId+"?fn="+createDotKoduFilename(world.Name,world.Creator))
+              item.find("[data-type='download-link']").attr("href",worldsUrl+"/download/"+world.WorldId+"?fn="+createDotKoduFilename(world.Name,world.Creator))
 
               let quality=params["quality"]
               if(quality)
