@@ -312,7 +312,7 @@ $().ready(function(){
                 createDotKoduFilename(world.Name,world.Creator))
               item.show();//template defaults to hidden so show.
 
-              item.find("[data-type='download-link']").attr("download",   createDotKoduFilename(world.Name,world.Creator))
+              //item.find("[data-type='download-link']").attr("download",   createDotKoduFilename(world.Name,world.Creator))
 
               let quality=params["quality"]
               if(quality)
