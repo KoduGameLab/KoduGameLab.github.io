@@ -142,6 +142,10 @@ show_sidebar: false
 
 
 <script>
+  //Force https
+if (location.protocol !== "https:") {
+  location.protocol = "https:";
+}  
 
 function hexToBase64(str) {
   return btoa(String.fromCharCode.apply(null,
