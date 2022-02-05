@@ -13,6 +13,12 @@ hero_link_text: Get Kodu
 }
 </style>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script>
+  //Force https
+if (location.protocol !== "https:") {
+  location.protocol = "https:";
+}  
+</script>
 
 <p>
   <img src="images/Kodu.png" align="right" hspace="20"/><br>
