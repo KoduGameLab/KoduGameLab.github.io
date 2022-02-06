@@ -418,7 +418,7 @@ $().ready(function(){
 
       //todo change to post search api
       let urlArgs= "?first="+curFirst+"&count="+curCount+"&sortBy="+curSort+"&range="+curRange;
-      baseUrl = "https://koduworlds-test.azurewebsites.net/web/search/"+curSearch
+      baseUrl = worldsUrl+"search/"+curSearch
       let url=baseUrl+urlArgs
       curFirst+=curCount;
 
