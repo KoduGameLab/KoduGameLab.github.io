@@ -186,7 +186,7 @@ function decodeGuid(encodedGuid)
       return (decoded)
 }
                                                                                      
-var worldsUrl = 'https://koduworlds.com/web/'  
+var worldsUrl = 'https://koduworlds.azurewebsites.net/web/'  
 $().ready(function(){
     $(".world-item").hide();//hide template at start.
     jQuery.timeago.settings.strings.minute = "1 minute";//remove "about" (ug)
@@ -418,7 +418,7 @@ $().ready(function(){
 
       //todo change to post search api
       let urlArgs= "?first="+curFirst+"&count="+curCount+"&sortBy="+curSort+"&range="+curRange;
-      baseUrl = "https://koduworlds-test.azurewebsites.net/web/search/"+curSearch
+      baseUrl = worldsUrl+"search/"+curSearch
       let url=baseUrl+urlArgs
       curFirst+=curCount;
 
