@@ -15,11 +15,11 @@ Kodu is now available in the Microsoft store.  This is the same as the desktop b
 
 The desktop builds are most useful when installing Kodu off-line. For instance, you can put the installer on a USB drive and install it on multiple PCs. You do not need to download both files. Regular users should download and install the KoduSetup.EXE file. The KoduSetup.MSI file is for system administrators installing Kodu via SCCM. 
 
-## Latest Version : 1.6.12.0
+## Latest Version : 1.6.18.0
 
-[KoduSetup.EXE](https://kodugamelab.blob.core.windows.net/blob/Builds/KoduSetup_1.6.12.0.exe)
+[KoduSetup.EXE](https://kodugamelab.blob.core.windows.net/blob/Builds/KoduSetup_1.6.18.0.exe)
 
-[KoduSetup.MSI](https://kodugamelab.blob.core.windows.net/blob/Builds/KoduSetup_1.6.12.0.msi)
+[KoduSetup.MSI](https://kodugamelab.blob.core.windows.net/blob/Builds/KoduSetup_1.6.18.0.msi)
 
 Both the Microsoft Store build and the Desktop builds store the user's levels in the same location so you can freely switch between them without losing any work.
 
