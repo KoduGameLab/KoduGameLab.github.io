@@ -7,7 +7,7 @@ hero_height: is-small
 
 [Home](..)/[Resources](.)/Managed Test Drive
 
-[![](managed_test_drive.png)](https://www.kodugamelab.com/worlds/#sQSa7QMWL06j_Z0r8xuKOA==)
+[![](managed_test_drive.png)](https://koduworlds.azurewebsites.net/web//download/ED9A04B1-1603-4E2F-A3FD-9D2BF31B8A38)
 
 ## Managed Test Drive
 ![Digital Technology](dt.png) ![Computer Science](cs.png)
@@ -33,7 +33,7 @@ hero_height: is-small
   * [Kodu Makerspace: Managed Test Drive](Student_Guide_Kodu_Makerspace.pdf#page=3) (1 per student)
 * Lesson 1: Present Teacher Resources:
   * [Lesson 1 Kodu Makerspace](1_Lesson_Kodu_Makerspace.pdf)
-  * Completed Game: [Flashy Fishbots](http://worlds.kodugamelab.com/world/sQSa7QMWL06j_Z0r8xuKOA==)
+  * Completed Game: [Flashy Fishbots](https://koduworlds.azurewebsites.net/web//download/ED9A04B1-1603-4E2F-A3FD-9D2BF31B8A38)
 
 ### Student Activities
 [**Introducing Kodu Game Lab**](1_Lesson_Kodu_Makerspace.pdf#page=2)<br>
@@ -41,7 +41,7 @@ Introduce Kodu with Kodu Makerspace Learn to make your own games: [Slide 1](1_Sl
 *Subjects: Design Technology, Digital Literacy, 21st Century Learning Skills*
 
 [**Kodu Game Exploration**](1_Lesson_Kodu_Makerspace.pdf#page=3)<br>
-Students will learn to load the Kodu World: [Flashy Fishbots](http://worlds.kodugamelab.com/world/sQSa7QMWL06j_Z0r8xuKOA==) as described Load World main screen: [Slide 5](1_Slides_Kodu_Makerspace.pdf#page=5). Students will learn the Load World main screen features as described Tool Palette navigation: Flashy Fishbots: [Slide 6](1_Slides_Kodu_Makerspace.pdf#page=6). Students will explore and run [Flashy Fishbots](http://worlds.kodugamelab.com/world/sQSa7QMWL06j_Z0r8xuKOA==) while recording observations with the guided questions on Kodu game exploration, which can be displayed with Flashy Fishbots [Slide 7](1_Slides_Kodu_Makerspace.pdf#page=7).<br>
+Students will learn to load the Kodu World: [Flashy Fishbots](https://koduworlds.azurewebsites.net/web//download/ED9A04B1-1603-4E2F-A3FD-9D2BF31B8A38) as described Load World main screen: [Slide 5](1_Slides_Kodu_Makerspace.pdf#page=5). Students will learn the Load World main screen features as described Tool Palette navigation: Flashy Fishbots: [Slide 6](1_Slides_Kodu_Makerspace.pdf#page=6). Students will explore and run [Flashy Fishbots](https://koduworlds.azurewebsites.net/web//download/ED9A04B1-1603-4E2F-A3FD-9D2BF31B8A38) while recording observations with the guided questions on Kodu game exploration, which can be displayed with Flashy Fishbots [Slide 7](1_Slides_Kodu_Makerspace.pdf#page=7).<br>
 *Subjects: Design Technology, Digital Literacy, 21st Century Learning Skills*
 
 [**Character Analysis**](1_Lesson_Kodu_Makerspace.pdf#page=4)<br>
